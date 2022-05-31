@@ -1,0 +1,56 @@
+id: IE0737B77
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:40:19.629720'
+last_modified: '2022-05-31T06:40:19.629725'
+parser: null
+source_metadata:
+  title: Nyoshul Khenpo Jamyang Dorje
+  language: it
+  description: 'Texts by the great Dzogchen teacher and historian Nyoshul Khenpo Jamyang
+    Dorje (smyo shul mkhan po ''jam dbyangs rdo rje, 1932–1999):'
+  volume:
+    fE96B:
+      title: 'Luminous Clouds of Spontaneous Song: A Prayer to Call the Guru from
+        Afar'
+      base_file: fE96B.txt
+      order: 1
+      parent: Calling the Guru from Afar
+    f7876:
+      title: Advice in a Single Statement (from Khenpo Ngawang Palzang)
+      base_file: f7876.txt
+      order: 2
+      parent: Dzogchen
+    f9AAD:
+      title: Principles of the Dzogchen Practice of Khordé Rushen
+      base_file: f9AAD.txt
+      order: 3
+      parent: Dzogchen
+    fD306:
+      title: The Five Wisdoms
+      base_file: fD306.txt
+      order: 4
+      parent: Dzogchen
+    f9D4D:
+      title: Prayer to the Omniscient Longchen Rabjam
+      base_file: f9D4D.txt
+      order: 5
+      parent: Lineage Prayers
+    f0648:
+      title: 'Mindfulness: The Mirror of the Mind'
+      base_file: f0648.txt
+      order: 6
+      parent: Poems
+    f0B7B:
+      title: Natural Great Peace
+      base_file: f0B7B.txt
+      order: 7
+      parent: Poems
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
